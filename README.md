@@ -7,4 +7,4 @@ or even [api.arcsecond.io](https://api.arcsecond.io).
 
 Simply click the **Issues** button above, and give us as many details as possible.
 
-If you are looking for the arcsecond CLI, it is [https://github.com/arcsecond-io/cli](here).
+If you are looking for the arcsecond CLI, it is [here](https://github.com/arcsecond-io/cli).
